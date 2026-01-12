@@ -60,7 +60,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, atuo como **Analista 
 ---
 
 ## 📫 Vamos conversar?
-- 💼 LinkedIn: *(coloque aqui teu link)*
+- 💼 LinkedIn: linkedin.com/in/whallyson-gabriel-garcia-da-silva-914765235
 - 🌐 Portfólio: https://whallyson.netlify.app/
 
 ---

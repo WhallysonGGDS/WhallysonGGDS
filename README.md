@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Whallyson Gabriel Garcia da Silva
 
-<!--
-**WhallysonGGDS/WhallysonGGDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Analista de Dados | BI | Analytics**  
+Transformo dados em **insights claros, visuais e acionáveis** para apoiar decisões de negócio.
 
-Here are some ideas to get you started:
+Sou formado em **Análise e Desenvolvimento de Sistemas**, atuo como **Analista de Dados**, e utilizo dados como ferramenta estratégica — não só gráficos bonitos, mas **decisão baseada em números**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Portfólio
+🌐 **Site oficial:**  
+👉 https://whallyson.netlify.app/
+
+📊 Projetos com foco em:
+- Análise exploratória de dados
+- Dashboards interativos
+- Indicadores de performance (KPIs)
+- Storytelling com dados
+
+---
+
+## 🧰 Hard Skills
+- **SQL** (consultas, joins, KPIs, análise)
+- **Power BI** (DAX, Power Query, modelagem)
+- **Excel** (dashboards, tabelas dinâmicas, funções)
+- **Python** (pandas, automação, análise de dados)
+- **Git & GitHub** (versionamento e portfólio)
+- **Looker Studio**
+
+---
+
+## 📊 Ferramentas
+- Power BI
+- Excel / Google Sheets
+- Python
+- SQL
+- Looker Studio
+- GitHub
+
+---
+
+## 🤝 Soft Skills
+- Comunicação clara com áreas técnicas e negócio
+- Pensamento analítico
+- Facilidade de aprendizado
+- Organização e foco em resultado
+- Trabalho em equipe
+
+---
+
+## 📌 Projetos em destaque
+- 📈 Dashboards de Vendas
+- 📊 Análises de dados reais
+- 📉 Indicadores de performance
+- 🧠 Projetos focados em BI e tomada de decisão
+
+👉 Todos disponíveis no portfólio:  
+🔗 https://whallyson.netlify.app/
+
+---
+
+## 📫 Vamos conversar?
+- 💼 LinkedIn: *(coloque aqui teu link)*
+- 🌐 Portfólio: https://whallyson.netlify.app/
+
+---
+
+📈 _Dados contam histórias. Eu transformo histórias em decisões._

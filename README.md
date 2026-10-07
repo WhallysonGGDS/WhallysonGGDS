@@ -25,8 +25,11 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** (Estácio, 2024), atuo
 - **React & Next.js** (componentes, App Router, SSR)
 - **TypeScript & JavaScript** (tipagem, ES6+, lógica de interface)
 - **Tailwind CSS, HTML5 & CSS3** (layouts responsivos, design systems)
-- **GSAP & Motion** (animações, ScrollTrigger, microinterações)
-- **Supabase, PostgreSQL & Drizzle ORM** (integração com backend)
+- **GSAP, Framer Motion & Lenis** (animações, ScrollTrigger, smooth scroll, microinterações)
+- **Experiências guiadas por scroll** (vídeo controlado pelo scroll, sequência de frames em Canvas, mapas com D3)
+- **React Hook Form, Zod & TanStack Query** (formulários, validação e dados no front-end)
+- **Supabase, PostgreSQL, Drizzle ORM, Hono & Better Auth** (integração com backend e autenticação)
+- **Python, Flask & SQL** (base de back-end e dados)
 - **Git & GitHub** (versionamento e portfólio)
 
 ---
@@ -35,8 +38,10 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** (Estácio, 2024), atuo
 - Figma
 - Canva
 - Vercel
+- Vite
 - shadcn/ui
 - Three.js
+- ESLint
 - GitHub
 
 ---

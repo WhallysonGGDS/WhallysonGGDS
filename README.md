@@ -3,7 +3,7 @@
 🎯 **Desenvolvedor Front-end | UI Engineer | Creative Developer**  
 Construo **interfaces de alto impacto visual**, do design ao código, em produção.
 
-📍 Goiânia, Brasil · 💼 Disponível para **CLT, PJ e freelance**
+📍 Goiânia, Brasil · 💼 Disponível para **CLT, PJ e freelance** · 🌎 Inglês: leitura técnica
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** (Estácio, 2024), atuo como **Desenvolvedor Front-end**, e uno design, interação e engenharia numa mesma entrega — não só telas bonitas, mas **experiências rápidas, acessíveis e bem construídas**.
 

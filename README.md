@@ -1,47 +1,47 @@
 # 👋 Olá, eu sou o Whallyson Gabriel Garcia da Silva
 
-🎯 **Analista de Dados | BI | Analytics**  
-Transformo dados em **insights claros, visuais e acionáveis** para apoiar decisões de negócio.
+🎯 **Desenvolvedor Front-end | UI Engineer | Creative Developer**  
+Construo **interfaces de alto impacto visual**, do design ao código, em produção.
 
-Sou formado em **Análise e Desenvolvimento de Sistemas**, atuo como **Analista de Dados**, e utilizo dados como ferramenta estratégica — não só gráficos bonitos, mas **decisão baseada em números**.
+Sou formado em **Análise e Desenvolvimento de Sistemas**, atuo como **Desenvolvedor Front-end**, e uno design, interação e engenharia numa mesma entrega — não só telas bonitas, mas **experiências rápidas, acessíveis e bem construídas**.
 
 ---
 
 ## 🚀 Portfólio
 🌐 **Site oficial:**  
-👉 https://whallyson.netlify.app/
+👉 https://whallyson-of-web.vercel.app
 
-📊 Projetos com foco em:
-- Análise exploratória de dados
-- Dashboards interativos
-- Indicadores de performance (KPIs)
-- Storytelling com dados
+💻 Projetos com foco em:
+- Interfaces modernas e responsivas
+- Animações e experiências guiadas pelo scroll
+- Design systems e componentes reutilizáveis
+- Performance e acessibilidade
 
 ---
 
 ## 🧰 Hard Skills
-- **SQL** (consultas, joins, KPIs, análise)
-- **Power BI** (DAX, Power Query, modelagem)
-- **Excel** (dashboards, tabelas dinâmicas, funções)
-- **Python** (pandas, automação, análise de dados)
+- **React & Next.js** (componentes, App Router, SSR)
+- **TypeScript & JavaScript** (tipagem, ES6+, lógica de interface)
+- **Tailwind CSS, HTML5 & CSS3** (layouts responsivos, design systems)
+- **GSAP & Motion** (animações, ScrollTrigger, microinterações)
+- **Supabase, PostgreSQL & Drizzle ORM** (integração com backend)
 - **Git & GitHub** (versionamento e portfólio)
-- **Looker Studio**
 
 ---
 
 ## 📊 Ferramentas
-- Power BI
-- Excel / Google Sheets
-- Python
-- SQL
-- Looker Studio
+- VS Code
+- Figma
+- Vercel
+- shadcn/ui
+- Lenis / Three.js
 - GitHub
 
 ---
 
 ## 🤝 Soft Skills
-- Comunicação clara com áreas técnicas e negócio
-- Pensamento analítico
+- Comunicação clara com áreas de design, produto e negócio
+- Olhar atento a detalhes visuais
 - Facilidade de aprendizado
 - Organização e foco em resultado
 - Trabalho em equipe
@@ -49,20 +49,21 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, atuo como **Analista 
 ---
 
 ## 📌 Projetos em destaque
-- 📈 Dashboards de Vendas
-- 📊 Análises de dados reais
-- 📉 Indicadores de performance
-- 🧠 Projetos focados em BI e tomada de decisão
+- 🌍 **Origo** — experiência institucional cinematográfica guiada pelo scroll (Next.js, GSAP, Lenis)
+- 🏎️ **911 GT3 RS** — 240 quadros em canvas controlados pelo scroll (GSAP, Canvas)
+- 🚗 **BYD** — página de campanha com vídeo controlado pelo scroll (Next.js, TypeScript, GSAP)
+- 🧑‍💻 **Portfólio pessoal** — design e código autorais (React, TypeScript, Tailwind CSS)
 
 👉 Todos disponíveis no portfólio:  
-🔗 https://whallyson.netlify.app/
+🔗 https://whallyson-of-web.vercel.app
 
 ---
 
 ## 📫 Vamos conversar?
-- 💼 LinkedIn: linkedin.com/in/whallyson-gabriel-garcia-da-silva-914765235
-- 🌐 Portfólio: https://whallyson.netlify.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/whallyson-gabriel-garcia-da-silva-914765235
+- 🌐 Portfólio: https://whallyson-of-web.vercel.app
+- 📩 E-mail: whallysongab@gmail.com
 
 ---
 
-📈 _Dados contam histórias. Eu transformo histórias em decisões._
+💻 _Design com intenção. Tecnologia com propósito._

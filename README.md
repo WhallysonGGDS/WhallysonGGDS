@@ -3,7 +3,9 @@
 🎯 **Desenvolvedor Front-end | UI Engineer | Creative Developer**  
 Construo **interfaces de alto impacto visual**, do design ao código, em produção.
 
-Sou formado em **Análise e Desenvolvimento de Sistemas**, atuo como **Desenvolvedor Front-end**, e uno design, interação e engenharia numa mesma entrega — não só telas bonitas, mas **experiências rápidas, acessíveis e bem construídas**.
+📍 Goiânia, Brasil · 💼 Disponível para **CLT, PJ e freelance**
+
+Sou formado em **Análise e Desenvolvimento de Sistemas** (Estácio, 2024), atuo como **Desenvolvedor Front-end**, e uno design, interação e engenharia numa mesma entrega — não só telas bonitas, mas **experiências rápidas, acessíveis e bem construídas**.
 
 ---
 
@@ -30,11 +32,11 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, atuo como **Desenvolv
 ---
 
 ## 📊 Ferramentas
-- VS Code
 - Figma
+- Canva
 - Vercel
 - shadcn/ui
-- Lenis / Three.js
+- Three.js
 - GitHub
 
 ---
@@ -61,6 +63,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, atuo como **Desenvolv
 
 ## 📫 Vamos conversar?
 - 💼 LinkedIn: https://www.linkedin.com/in/whallyson-gabriel-garcia-da-silva-914765235
+- 💬 WhatsApp: [Falar comigo](https://wa.me/qr/FZFAAGJ62DEHP1)
 - 🌐 Currículo virtual: [whallyson-of-web.vercel.app](https://whallyson-of-web.vercel.app)
 - 📩 E-mail: whallysongab@gmail.com
 

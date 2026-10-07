@@ -8,14 +8,14 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, atuo como **Desenvolv
 ---
 
 ## 🚀 Portfólio
-🌐 **Site oficial:**  
+🌐 **Currículo virtual:**  
 👉 [**Acessar meu portfólio**](https://whallyson-of-web.vercel.app)
 
-💻 Projetos com foco em:
-- Interfaces modernas e responsivas
-- Animações e experiências guiadas pelo scroll
-- Design systems e componentes reutilizáveis
-- Performance e acessibilidade
+📄 No site você encontra:
+- Minha trajetória e formação
+- Stack e ferramentas que uso
+- Meu processo de trabalho
+- Formas de contato
 
 ---
 
@@ -52,10 +52,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, atuo como **Desenvolv
 - 🌍 **Origo** — experiência institucional cinematográfica guiada pelo scroll (Next.js, GSAP, Lenis)
 - 🏎️ **911 GT3 RS** — 240 quadros em canvas controlados pelo scroll (GSAP, Canvas)
 - 🚗 **BYD** — página de campanha com vídeo controlado pelo scroll (Next.js, TypeScript, GSAP)
-- 🧑‍💻 **Portfólio pessoal** — design e código autorais (React, TypeScript, Tailwind CSS)
-
-👉 Todos disponíveis no portfólio:  
-🔗 [**whallyson-of-web.vercel.app**](https://whallyson-of-web.vercel.app)
+- 🧑‍💻 **Portfólio pessoal** — currículo virtual com design e código autorais (React, TypeScript, Tailwind CSS)
 
 ---
 

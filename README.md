@@ -7,9 +7,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, atuo como **Desenvolv
 
 ---
 
-## 🚀 Portfólio
-🌐 **Currículo virtual:**  
-👉 [**Acessar meu portfólio**](https://whallyson-of-web.vercel.app)
+## 🚀 Currículo virtual
+🌐 **Site oficial:**  
+👉 [**Acessar meu currículo virtual**](https://whallyson-of-web.vercel.app)
 
 📄 No site você encontra:
 - Minha trajetória e formação
@@ -54,7 +54,6 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, atuo como **Desenvolv
 - 🦅 **[Kestrel](https://kestrel-site-sage.vercel.app)** — site conceito de entregas por drone com narrativa guiada pelo scroll (Next.js, GSAP, Lenis)
 - 🍣 **[Restaurante Omakase](https://restaurante-omakase.vercel.app)** — site para restaurante de culinária japonesa
 - 🌍 **Origo** — experiência institucional cinematográfica guiada pelo scroll (Next.js, GSAP, Lenis)
-- 🧑‍💻 **[Portfólio pessoal](https://whallyson-of-web.vercel.app)** — currículo virtual com design e código autorais (React, TypeScript, Tailwind CSS)
 
 👉 Clique no nome do projeto para acessar o site.
 
@@ -62,7 +61,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, atuo como **Desenvolv
 
 ## 📫 Vamos conversar?
 - 💼 LinkedIn: https://www.linkedin.com/in/whallyson-gabriel-garcia-da-silva-914765235
-- 🌐 Portfólio: [whallyson-of-web.vercel.app](https://whallyson-of-web.vercel.app)
+- 🌐 Currículo virtual: [whallyson-of-web.vercel.app](https://whallyson-of-web.vercel.app)
 - 📩 E-mail: whallysongab@gmail.com
 
 ---

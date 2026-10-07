@@ -49,10 +49,14 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, atuo como **Desenvolv
 ---
 
 ## 📌 Projetos em destaque
+- 🚗 **[BYD](https://byd-website-alpha.vercel.app)** — página de campanha com vídeo controlado pelo scroll (Next.js, TypeScript, GSAP)
+- 🏎️ **[911 GT3 RS](https://porsche-gt3rs-conceito.vercel.app)** — 240 quadros em canvas controlados pelo scroll (GSAP, Canvas)
+- 🦅 **[Kestrel](https://kestrel-site-sage.vercel.app)** — site conceito de entregas por drone com narrativa guiada pelo scroll (Next.js, GSAP, Lenis)
+- 🍣 **[Restaurante Omakase](https://restaurante-omakase.vercel.app)** — site para restaurante de culinária japonesa
 - 🌍 **Origo** — experiência institucional cinematográfica guiada pelo scroll (Next.js, GSAP, Lenis)
-- 🏎️ **911 GT3 RS** — 240 quadros em canvas controlados pelo scroll (GSAP, Canvas)
-- 🚗 **BYD** — página de campanha com vídeo controlado pelo scroll (Next.js, TypeScript, GSAP)
-- 🧑‍💻 **Portfólio pessoal** — currículo virtual com design e código autorais (React, TypeScript, Tailwind CSS)
+- 🧑‍💻 **[Portfólio pessoal](https://whallyson-of-web.vercel.app)** — currículo virtual com design e código autorais (React, TypeScript, Tailwind CSS)
+
+👉 Clique no nome do projeto para acessar o site.
 
 ---
 

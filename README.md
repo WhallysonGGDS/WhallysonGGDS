@@ -60,7 +60,6 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** (Estácio, 2024), atuo
 - 🏎️ **[911 GT3 RS](https://porsche-gt3rs-conceito.vercel.app)** — 240 quadros em canvas controlados pelo scroll (GSAP, Canvas)
 - 🦅 **[Kestrel](https://kestrel-site-sage.vercel.app)** — site conceito de entregas por drone com narrativa guiada pelo scroll (Next.js, GSAP, Lenis)
 - 🍣 **[Restaurante Omakase](https://restaurante-omakase.vercel.app)** — site para restaurante de culinária japonesa
-- 🌍 **Origo** — experiência institucional cinematográfica guiada pelo scroll (Next.js, GSAP, Lenis)
 
 👉 Clique no nome do projeto para acessar o site.
 
